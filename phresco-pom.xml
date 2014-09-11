@@ -355,7 +355,6 @@
         <phresco.performanceTest.dir>/${phresco.test.dir}/performance</phresco.performanceTest.dir>
         <phresco.performanceTest.report.dir>/${phresco.test.dir}/performance/dir_type/results/jmeter</phresco.performanceTest.report.dir>
         <phresco.performanceTest.result.extension>jtl</phresco.performanceTest.result.extension>
-        <!-- <sonar.javascript.jstest.reportsfolder>do_not_checkin/jstest/report/emulator-0</sonar.javascript.jstest.reportsfolder> -->
         <phresco.performanceTest.jmx.upload.dir>/tests</phresco.performanceTest.jmx.upload.dir>
         <phresco.loadTest.dir>/${phresco.test.dir}/load</phresco.loadTest.dir>
         <phresco.loadTest.report.dir>/${phresco.test.dir}/load/dir_type/results/jmeter</phresco.loadTest.report.dir>
@@ -375,6 +374,7 @@
         <phresco.seoTest.testcase.path>/testcase</phresco.seoTest.testcase.path>
         <phresco.seoTest.dir>/${phresco.test.dir}/seo</phresco.seoTest.dir>
         <phresco.src.repo.url>https://github.com/maheshkumar3/sample</phresco.src.repo.url>
+        <!-- <sonar.javascript.jstest.reportsfolder>do_not_checkin/jstest/report/emulator-0</sonar.javascript.jstest.reportsfolder> -->
         <!-- Test, Test Report and Test Suite Directories -->
     </properties>
 </project>
