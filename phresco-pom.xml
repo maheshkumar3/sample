@@ -325,7 +325,7 @@
 
   <properties>
         <phresco.test.dir>test</phresco.test.dir>
-        <phresco.src.root.dir>src</phresco.src.root.dir>
+        <phresco.src.root.dir>../sahtm/src</phresco.src.root.dir>
         <source.pom>pom.xml</source.pom>
         <phresco.env.config.xml>/src/main/webapp/WEB-INF/resources/phresco-env-config.xml</phresco.env.config.xml>
         <phresco.env.test.config.xml>/src/test/webapp/resources/phresco-env-config.xml</phresco.env.test.config.xml>
